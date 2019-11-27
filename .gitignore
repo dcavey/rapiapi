@@ -1,0 +1,3 @@
+.venv/
+.project
+sensor/__pycache__
